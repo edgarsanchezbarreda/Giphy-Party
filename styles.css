@@ -3,6 +3,17 @@ body{
     font-family: 'Ubuntu', sans-serif;
 }
 
+img{
+    width: 300px;
+    height: 300px;
+}
+
+#giphyBox{
+    display: flex;
+    gap:1rem;
+    justify-content: center;
+}
+
 #contentBox{
     display: flex;
     justify-content: center;
