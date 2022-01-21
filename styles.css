@@ -1,0 +1,23 @@
+body{
+    background-color: slategray;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#contentBox{
+    display: flex;
+    justify-content: center;
+    gap: 0.1rem;  
+  }
+
+#title{
+    text-align: center;
+    color: white;
+}
+
+#searchBtn{
+    background-color: lightgrey;
+}
+
+#removeBtn{
+    background-color: coral;
+}
